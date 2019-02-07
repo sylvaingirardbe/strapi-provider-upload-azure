@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-azure-cl",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Azure provider for strapi upload",
   "homepage": "https://www.curaelabs.com",
   "keywords": [
